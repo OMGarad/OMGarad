@@ -8,7 +8,7 @@ I hope you enjoy looking at my repositories!!
 
 ------------------------------
 
-How to reach me:
+### How to reach me:
 
 Personal email: OMGarad@gmail.com
 
