@@ -14,6 +14,6 @@ Personal email: OMGarad@gmail.com
 
 College email: f20191010@goa.bits-pilani.ac.in
 
-LinkedIn: [https://www.linkedin.com/in/omkar-garad-946934188/](https://www.linkedin.com/in/omkargarad/)
+LinkedIn: [https://www.linkedin.com/in/omkargarad](https://www.linkedin.com/in/omkargarad/)
 
 Phone Number: +91-9307735017
