@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [omgarad.github.io](omgarad.github.io)
 
-- 📫 How to reach me **omg22@cornell.edu**
+- 📫 How to reach me **omgarad@gmail.com**
 
 - ⚡ Fun fact **I love creating digital art. I drew my profile picture!**
 
