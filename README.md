@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, my name is Omkar Garad! :)</h1>
-<h3 align="center">2nd year masters student at Cornell University, based in NYC</h3>
+<h3 align="center">I'm an AI Engineer II at Honeywell, based in Atlanta, GA!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgarad&label=Profile%20views&color=0e75b6&style=flat" alt="omgarad" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [omgarad.github.io](omgarad.github.io)
 
-- 📫 How to reach me **omgarad@gmail.com**
+- 📫 How to reach me: **omgarad@gmail.com**
 
-- ⚡ Fun fact **I love creating digital art. I drew my profile picture!**
+- ⚡ Fun fact: **I love creating digital art. I drew my profile picture!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
